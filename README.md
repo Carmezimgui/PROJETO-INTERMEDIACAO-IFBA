@@ -1,4 +1,5 @@
-Intermediação entre Discentes e Servidores do IFBA - Campus Euclides da Cunha 
+INTERMEDIAÇÃO ENTRE DISCENTES E SERVIDORES DO IFBA - CAMPUS EUCLIDES DA CUNHA
+
 JUSTIFICATIVA
 
 A metodologia de agendamento entre servidores e discentes que ocorre no campus do IFBA - Euclides da Cunha são ocorridas presencialmente. Há diversos discentes que são leigos em relação à seus direitos (saúde, física e/ou psicológica) para marcar consultas com os servidores do campus. Quando ia marcar a consulta com algum servidor teria de ser durante o ensino presencial ou intervalo, além de ser uma incógnita se estaria presente e/ou ter uma vaga para realizar a consulta. Diversos alunos possam estar precisando de apoio de profissionais que atuam no campus, diante os problemas do dia a dia. Com base nisso criaremos um sistema on-line que facilitará a intermediação entre discente e servidor, como requisito alguns dados dos alunos (nome, data de nascimento), servidores (nome, área que atua e data disponível) e possa ficar registrados os dados dos mesmo para que, caso queira marcar novamente já estará dentro do sistema, assim só marcará com o servidor sua consulta.
