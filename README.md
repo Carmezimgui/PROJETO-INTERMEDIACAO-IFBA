@@ -8,5 +8,11 @@ OBJETIVOS GERAIS DO PROJETO:
 
 Realizar a intermediação entre alunos e servidores, produzir agendamentos de consultas com psicólogo, pedagogo, nutricionista, entre outros através de um programa minimalista e prático de agendamentos. Receber necessidades dos discentes a respeito de certos servidores e funcionários do IFBA, no que se diz respeito à psicologia, enfermaria, biblioteca, direção, suporte ao aluno, reclamações e sugestões de melhoria aos devidos servidores.
 
-Especificação do papel de cada membro
-Alguma coisa aqui @prof
+PAPEL ESPECÍFICO DE CADA MEMBRO:
+
+CADASTRAR ALUNO: Rafael dos Santos Reis
+RECEBER DADOS DOS ALUNOS: Emanuel Pinheiro de Souza Silva
+AVERIGUAR DISPONIBILIDADE DO SERVIDOR:
+GUARDAR DADOS:Pedro Henrique de Moura Bianchini
+MOSTRAR DATAS DISPONÍVEIS PARA CONSULTA:Pedro Henrique de Moura Bianchini
+MARCAR CONSULTA: Guilherme Ferreira Carmezim
